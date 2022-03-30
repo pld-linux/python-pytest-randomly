@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Wtyczka pytesta do losowej kolejności testów i sterowania r
 Name:		python-pytest-randomly
 # keep 1.x here for python2 support
 Version:	1.2.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-randomly/
